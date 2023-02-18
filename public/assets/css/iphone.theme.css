@@ -1,0 +1,29 @@
+.locked {
+    font-size: 18px;
+    font-family: 'Microsoft Yahei', serif;
+    background-color: #344860;
+    color: white;
+    border-radius: 50px;
+}
+
+.locked_handle {
+    background-color: #ffc80d;
+    /* background-image: url("../images/right_arrow.png"); */
+}
+
+.locked_handle .fa-angle-right {
+    font-weight: 900;
+    font-size: 35px;
+    color: black;
+    margin-top: 15px;
+}
+
+.unlocked {
+    background-color: #344860;
+    border-radius: 50px;
+}
+
+.unlocked_handle {
+    background-color: #ffc80d;
+    /* background-image: url("../images/left_arrow.png"); */
+}
